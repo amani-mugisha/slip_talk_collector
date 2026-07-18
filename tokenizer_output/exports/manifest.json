@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-07-10T18:52:11Z",
+  "vocab_size": 32000,
+  "files": [
+    {
+      "name": "tokenizer_config.json",
+      "path": "huggingface/tokenizer_config.json",
+      "size_bytes": 325,
+      "sha256": "1b173cfe19ed56ef7339274b33f1524094491d9904a931275b76f293ce948d57"
+    },
+    {
+      "name": "tokenizer.json",
+      "path": "huggingface/tokenizer.json",
+      "size_bytes": 2282978,
+      "sha256": "88300bb44ed4f73f09eab425cccdf6daf0371537df59730db0d3923e1352a097"
+    },
+    {
+      "name": "vocab.txt",
+      "path": "vocab.txt",
+      "size_bytes": 270618,
+      "sha256": "718a70eb8fb97e95efdfce84fc614a494e0283c77c5e4781903b0177cb0e864c"
+    },
+    {
+      "name": "vocab.json",
+      "path": "vocab.json",
+      "size_bytes": 643544,
+      "sha256": "5064484a590e5aeabeb6b9c54e4770a9e9200804dcc4555656925275c19882c1"
+    },
+    {
+      "name": "merges.txt",
+      "path": "merges.txt",
+      "size_bytes": 301860,
+      "sha256": "aabe575ee7bba9631704ffa714a11944db10c4525bf8461a93337297b2433c6b"
+    },
+    {
+      "name": "tokenizer_config_export.json",
+      "path": "tokenizer_config_export.json",
+      "size_bytes": 551,
+      "sha256": "f65510bfad07500be29c5ae1bb79b1a3df398e9522929050b3393c1743040059"
+    }
+  ]
+}

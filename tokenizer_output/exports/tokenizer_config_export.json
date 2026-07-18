@@ -1,0 +1,26 @@
+{
+  "tokenizer_class": "PreTrainedTokenizerFast",
+  "vocab_size": 32000,
+  "model_max_length": 2048,
+  "bos_token": "<s>",
+  "eos_token": "</s>",
+  "unk_token": "<unk>",
+  "pad_token": "<pad>",
+  "mask_token": "<mask>",
+  "padding_side": "right",
+  "truncation_side": "right",
+  "training": {
+    "algorithm": "bpe",
+    "vocab_size": 32000,
+    "min_frequency": 2,
+    "special_tokens": [
+      "<s>",
+      "</s>",
+      "<unk>",
+      "<pad>",
+      "<mask>"
+    ],
+    "dataset_dir": "dataset_output"
+  },
+  "exported_at": "2026-07-10T18:52:11Z"
+}

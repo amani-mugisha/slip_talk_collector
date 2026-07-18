@@ -1,0 +1,13 @@
+{
+  "algorithm": "bpe",
+  "vocab_size": 32000,
+  "min_frequency": 2,
+  "special_tokens": [
+    "<s>",
+    "</s>",
+    "<unk>",
+    "<pad>",
+    "<mask>"
+  ],
+  "dataset_dir": "dataset_output"
+}
